@@ -14,7 +14,7 @@ function App() {
     }
     getData();
   }, []);
-
+  
   function deletePerson(id) {
     const novospersonagens = data.filter((item) => item.name !== id);
     setData(novospersonagens);
