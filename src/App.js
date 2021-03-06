@@ -1,5 +1,6 @@
 import { useState } from "react";
 import React, { useEffect } from "react";
+import '../src/App.css'
 
 
 function App() {

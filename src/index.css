@@ -12,3 +12,51 @@ code {
     monospace;
 }
 
+*{
+  background-color: #000;
+  text-align: right;
+ 
+}
+
+button {
+  color: aliceblue;
+  width: 5em;
+  height: 1.5em;
+  margin: 1.2em; 
+  border-radius: 1.2em;
+}
+
+
+h1{
+  color: aliceblue;
+  font-size: 1.9em;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+select{
+  color: aliceblue;
+  font-size: 1.2em;
+  text-align: center; 
+}
+
+p{
+  color: aliceblue;
+  font-size: 1.5em;
+  text-align: left;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+p button{
+  align-items: center;
+  border-radius: 1.2em; 
+  text-align: center; 
+}
+
+
+
+
+
+
+
